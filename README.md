@@ -3,7 +3,7 @@
 A fully functional **Car Rental System** built with **Vite + React.js**, designed to provide a streamlined online renting experience. The application allows users to browse cars, search and filter options, view availability, and place rental reservations with confirmation.
 
 Deployed on **AWS Elastic Beanstalk (or alternative cloud platform)** for remote access.
-### Video Demo: https://youtu.be/XR1TdV-xHiQ?si=Ju_vtEJkQirtiWnC
+### Demo Video: https://youtu.be/XR1TdV-xHiQ?si=Ju_vtEJkQirtiWnC
 ---
 
 ## ✨ Features
